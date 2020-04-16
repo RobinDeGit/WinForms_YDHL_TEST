@@ -1,0 +1,10 @@
+D:\projects\winform_ydhl\WinForms_YDHL_TEST\UtilLibrary\bin\Debug\UtilLibrary.dll
+D:\projects\winform_ydhl\WinForms_YDHL_TEST\UtilLibrary\bin\Debug\UtilLibrary.pdb
+D:\projects\winform_ydhl\WinForms_YDHL_TEST\UtilLibrary\bin\Debug\Oracle.DataAccess.dll
+D:\projects\winform_ydhl\WinForms_YDHL_TEST\UtilLibrary\obj\Debug\UtilLibrary.dll
+D:\projects\winform_ydhl\WinForms_YDHL_TEST\UtilLibrary\obj\Debug\UtilLibrary.pdb
+D:\winform_ydhl\WinForms_YDHL_TEST\UtilLibrary\bin\Debug\UtilLibrary.dll
+D:\winform_ydhl\WinForms_YDHL_TEST\UtilLibrary\bin\Debug\UtilLibrary.pdb
+D:\winform_ydhl\WinForms_YDHL_TEST\UtilLibrary\obj\Debug\UtilLibrary.csprojResolveAssemblyReference.cache
+D:\winform_ydhl\WinForms_YDHL_TEST\UtilLibrary\obj\Debug\UtilLibrary.dll
+D:\winform_ydhl\WinForms_YDHL_TEST\UtilLibrary\obj\Debug\UtilLibrary.pdb

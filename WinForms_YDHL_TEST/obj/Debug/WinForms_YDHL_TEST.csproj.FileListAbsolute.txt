@@ -1,0 +1,26 @@
+c:\users\administrator\documents\visual studio 2015\Projects\WinForms_YDHL_TEST\WinForms_YDHL_TEST\bin\Debug\WinForms_YDHL_TEST.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\WinForms_YDHL_TEST\WinForms_YDHL_TEST\bin\Debug\WinForms_YDHL_TEST.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WinForms_YDHL_TEST\WinForms_YDHL_TEST\bin\Debug\WinForms_YDHL_TEST.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WinForms_YDHL_TEST\WinForms_YDHL_TEST\obj\Debug\WinForms_YDHL_TEST.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\WinForms_YDHL_TEST\WinForms_YDHL_TEST\obj\Debug\WinForms_YDHL_TEST.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WinForms_YDHL_TEST\WinForms_YDHL_TEST\obj\Debug\WinForms_YDHL_TEST.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\WinForms_YDHL_TEST\WinForms_YDHL_TEST\obj\Debug\WinForms_YDHL_TEST.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WinForms_YDHL_TEST\WinForms_YDHL_TEST\obj\Debug\WinForms_YDHL_TEST.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WinForms_YDHL_TEST\WinForms_YDHL_TEST\obj\Debug\WinForms_YDHL_TEST.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WinForms_YDHL_TEST\WinForms_YDHL_TEST\bin\Debug\Devart.Data.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WinForms_YDHL_TEST\WinForms_YDHL_TEST\bin\Debug\Devart.Data.Oracle.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WinForms_YDHL_TEST\WinForms_YDHL_TEST\bin\Debug\Devart.Data.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WinForms_YDHL_TEST\WinForms_YDHL_TEST\bin\Debug\Devart.Data.Oracle.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WinForms_YDHL_TEST\WinForms_YDHL_TEST\obj\Debug\WinForms_YDHL_TEST.deptForm.resources
+D:\projects\winform_ydhl\WinForms_YDHL_TEST\WinForms_YDHL_TEST\bin\Debug\WinForms_YDHL_TEST.exe.config
+D:\projects\winform_ydhl\WinForms_YDHL_TEST\WinForms_YDHL_TEST\obj\Debug\WinForms_YDHL_TEST.exe
+D:\projects\winform_ydhl\WinForms_YDHL_TEST\WinForms_YDHL_TEST\obj\Debug\WinForms_YDHL_TEST.pdb
+D:\projects\winform_ydhl\WinForms_YDHL_TEST\WinForms_YDHL_TEST\bin\Debug\WinForms_YDHL_TEST.exe
+D:\projects\winform_ydhl\WinForms_YDHL_TEST\WinForms_YDHL_TEST\bin\Debug\WinForms_YDHL_TEST.pdb
+D:\projects\winform_ydhl\WinForms_YDHL_TEST\WinForms_YDHL_TEST\obj\Debug\WinForms_YDHL_TEST.deptForm.resources
+D:\projects\winform_ydhl\WinForms_YDHL_TEST\WinForms_YDHL_TEST\obj\Debug\WinForms_YDHL_TEST.Form1.resources
+D:\projects\winform_ydhl\WinForms_YDHL_TEST\WinForms_YDHL_TEST\obj\Debug\WinForms_YDHL_TEST.Properties.Resources.resources
+D:\projects\winform_ydhl\WinForms_YDHL_TEST\WinForms_YDHL_TEST\obj\Debug\WinForms_YDHL_TEST.csproj.GenerateResource.Cache
+D:\projects\winform_ydhl\WinForms_YDHL_TEST\WinForms_YDHL_TEST\bin\Debug\Oracle.DataAccess.dll
+D:\projects\winform_ydhl\WinForms_YDHL_TEST\WinForms_YDHL_TEST\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\projects\winform_ydhl\WinForms_YDHL_TEST\WinForms_YDHL_TEST\obj\Debug\WinForms_YDHL_TEST.csprojResolveAssemblyReference.cache
